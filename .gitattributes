@@ -1,0 +1,3 @@
+# Re-classify .yy files (for GMS 2 projects)
+*.yy linguist-language=GML
+*.yyp linquist-language=GML
